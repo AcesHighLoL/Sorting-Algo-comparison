@@ -60,7 +60,7 @@ class MergeSort {
             System.out.print(arr[i] + " ");
         System.out.println();
     }
-
+     // Java
     public static void main(String args[]) {
         int arr[] = { 220, 49, 54, 26, 93, 17, 77, 31, 156, 44, 55, 20, 105 };
         System.out.println("--------------------Running Merge--------------------");
@@ -72,5 +72,6 @@ class MergeSort {
 
         System.out.println("\nSorted array");
         printArray(arr);
+        System.out.println("Hello");
     }
 }
